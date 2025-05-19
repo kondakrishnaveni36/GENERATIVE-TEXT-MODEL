@@ -27,3 +27,5 @@ This project has real-world applications in areas such as content generation, cr
 In conclusion, Task 4 helped me build a practical, AI-based tool that demonstrates the power of deep learning in generating human-like text. Uploading the .py file to GitHub is completely valid as per the task instructions, and it ensures that the code is easy to share, review, and reuse.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/23c98b3b-d23a-4e8e-ad94-459afa1475c4)
